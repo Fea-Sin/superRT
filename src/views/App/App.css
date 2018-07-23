@@ -1,0 +1,9 @@
+.App {
+  font-size: 20px;
+  color: blueviolet;
+}
+.App-con {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
