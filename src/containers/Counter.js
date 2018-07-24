@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
+import { Button } from 'antd'
 
 class Counter extends Component {
 
@@ -9,9 +10,9 @@ class Counter extends Component {
       <p>
         Clicked: {value} times
         {' '}
-        <button onClick={onIncrement}>+</button>
+        <Button onClick={onIncrement}>+</Button>
         {' '}
-        <button onClick={onDecrement}>-</button>
+        <Button onClick={onDecrement}>-</Button>
       </p>
     )
   }

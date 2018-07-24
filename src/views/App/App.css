@@ -7,3 +7,9 @@
   margin: 0 auto;
   padding-top: 30px;
 }
+.icon-test {
+  font-size: 25px;
+  color: '#08c';
+  margin-left: 30px;
+  vertical-align: -3px;
+}
