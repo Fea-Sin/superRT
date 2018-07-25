@@ -22,6 +22,22 @@ yarn build
 yarn test
 ```
 
+Or, you can just use npm
+
+```bash
+# install dependenceies
+npm install
+
+# serve with hot reload at localhost:3000
+npm run start
+
+# build for production with minification
+npm run build
+
+# run tests
+npm run test
+```
+
 ## 项目需求
 
 - 使用 Ant Design of React 作为项目组件库
