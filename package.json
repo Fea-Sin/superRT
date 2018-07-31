@@ -24,7 +24,10 @@
   },
   "devDependencies": {
     "babel-plugin-import": "^1.8.0",
+    "node-sass": "^4.9.2",
+    "react-app-rewire-css-modules": "codebandits/react-app-rewire-css-modules",
     "react-app-rewired": "^1.5.2",
+    "sass-loader": "^7.0.3",
     "shell-task": "^1.0.0"
   }
 }
