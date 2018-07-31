@@ -42,7 +42,7 @@ npm run test
 
 - 使用 Ant Design of React 作为项目组件库
 
-- 样式部分 使用 [CSS Modules](https://github.com/css-modules/css-modules) 模块化方案和[scss 样式预处理方案](https://github.com/codebandits/react-app-rewire-css-modules)，既避免了 css 全局污染又增加了书写样式的灵活性
+- 样式部分 使用 [CSS Modules](https://github.com/css-modules/css-modules) 模块化方案和 [scss 样式预处理方案](https://github.com/codebandits/react-app-rewire-css-modules)，既避免了 css 全局污染又增加了书写样式的灵活性
 
 ## thanks
 
